@@ -1,0 +1,23 @@
+{
+  "name": "black-lives-matter-listener",
+  "version": "1.0.0",
+  "description": "A simple dependency free vanilla JavaScript project to add Black Lives Matter keystroke listening functinality and polite behavior modification interactions to any web page or web application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oberocks/black-lives-matter-listener.git"
+  },
+  "keywords": [
+    "blm",
+    "javascript"
+  ],
+  "author": "Matt McT",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/oberocks/black-lives-matter-listener/issues"
+  },
+  "homepage": "https://github.com/oberocks/black-lives-matter-listener#readme"
+}
