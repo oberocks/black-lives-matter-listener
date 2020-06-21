@@ -19,7 +19,7 @@ Then simply include the file into any web page or web app view with a include th
 To install this project via NPM, you can use the following commands:
 
 ```bash
-npm install oberocks/obebs4#master --save
+npm install oberocks/black-lives-matter-listener#master --save
 ```
 
 From there if you want to copy the file from your node_modules folder and into your live site's root js folder, you'd use something like this:
